@@ -1,5 +1,5 @@
 # DyclopsClient
-A minecraft fabric client for the youtuber DyclopsPlays
+A minecraft fabric client for the youtuber Dyclops
 
 
 Instalation on Vanilla:
